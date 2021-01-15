@@ -1,7 +1,7 @@
 GIT COMMANDS
 1)git clone PATH
 2) cd kilo “TAB”
-3) git checkout “Branch Name”
+3) git checkout “Branch Name” //testing
 4) git pull
 
 Now modify any file or make changes
