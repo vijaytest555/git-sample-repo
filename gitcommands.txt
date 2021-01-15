@@ -1,5 +1,5 @@
 GIT COMMANDS
-1)git clone PATH
+1)git clone P
 2) cd kilo “TAB”
 3) git checkout “Branch Name” //testing
 4) git pull
