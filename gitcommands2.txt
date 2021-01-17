@@ -13,6 +13,8 @@ Now modify any file or make changes - for testing
 
 Add few lines for testing on this file
 
-
 testing for page 2 - branch merge stratgy
+
+=======
+Need tO Add these details in second file for branch merge conflicts
 
