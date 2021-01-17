@@ -1,0 +1,23 @@
+GIT COMMANDS
+1)git clone
+2) cd kilo “TAB”
+3) git checkout “Branch Name” //testing
+4) git pull
+
+Now modify any file or make changes
+1) Git status – “Now u will see al changes done by user”
+2) Git add . ( GIT ADD “.”)
+3) GIT status
+4) Git commit -m “YOUR MESSAGE HERE”
+5) Git push
+
+Add few lines for testing on this file
+
+testing for branch merge strategy today
+
+=======
+Add few lines for testing on this file
+
+Need tO Add these details in second file for branch merge conflicts
+
+
