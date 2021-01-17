@@ -18,6 +18,6 @@ testing for branch merge strategy today
 =======
 Add few lines for testing on this file
 
-Need tO Add these details in second file for branch merge conflicts
+Need tO Add these details in second file for branch merge conflic2
 
 
